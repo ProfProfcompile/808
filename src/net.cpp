@@ -1139,7 +1139,7 @@ void MapPort(bool /* unused fMapPort */)
 // The second name should resolve to a list of seed addresses.
 // testnet dns seed begins with 't', all else are 808 dns seeds.
 static const char *strDNSSeed[][2] = {
-   //  {"seed", "dns.808bass.space"}
+   //  {"seed", " NEEEEEEEEEEEEEEEEEEEEEEEED seeds "}
 
 };
 
@@ -1213,7 +1213,7 @@ void ThreadDNSAddressSeed2(void* parg)
 // Physical IP seeds: 32-bit IPv4 addresses: e.g. 178.33.22.32 = 0x201621b2
 unsigned int pnSeed[] =
 {
-    0x40A55B36,0xB99AD712,
+   NEEEEEEEEEEEEEED NEW SEEDS  ,,
 
 };
 
